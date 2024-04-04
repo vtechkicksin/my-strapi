@@ -1,4 +1,4 @@
-create a .env file and paste below info
+create a .env file in my-strapi folder and paste below info
 
 HOST=0.0.0.0
 PORT=1337
